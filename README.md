@@ -1,5 +1,5 @@
 ## Hi there
-![image](https://github.com/user-attachments/assets/c18d10c7-a0ed-4f1c-9c36-ae6f4289e8f8)
+Fun fact: I drink too much coffee.
 
 <!--
 **bugmaschine/bugmaschine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
