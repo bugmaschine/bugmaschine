@@ -1,5 +1,5 @@
 ## Hi there
-Fun fact: I drink too much coffee.
+I build things that i find useful
 
 <!--
 **bugmaschine/bugmaschine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
