@@ -1,6 +1,7 @@
 ## Hi there
 I build things that i think are useful. You'll find mostly projects that i use myself here. Feel free to send a dm if something breaks or if you have a question.
 
+discord: lowikian
 <!--
 **bugmaschine/bugmaschine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
